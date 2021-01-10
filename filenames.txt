@@ -1,8 +1,7 @@
-CSSPX_holdings.csv
-DGTL_holdings.csv
-ECAR_holdings.csv
-EIMI_holdings.csv
-HEAL_holdings.csv
-IUCM_holdings.csv
-IWLE_holdings.csv
-RBOT_holdings.csv
+DGTL_holdings.csv, 0.11538
+ECAR_holdings.csv, 0.1923
+EIMI_holdings.csv, 0.153846
+HEAL_holdings.csv, 0.153846
+SWDA_holdings.csv, 0.153846
+RBOT_holdings.csv, 0.153846
+INRG_holdings.csv, 0.0769230
