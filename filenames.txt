@@ -1,0 +1,8 @@
+CSSPX_holdings.csv
+DGTL_holdings.csv
+ECAR_holdings.csv
+EIMI_holdings.csv
+HEAL_holdings.csv
+IUCM_holdings.csv
+IWLE_holdings.csv
+RBOT_holdings.csv
